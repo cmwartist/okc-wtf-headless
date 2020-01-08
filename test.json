@@ -1,0 +1,144 @@
+[{
+    "id": 11,
+    "date": "2019-02-07T19:33:56",
+    "date_gmt": "2019-02-07T19:33:56",
+    "guid": {
+        "rendered": "http:\/\/okc.wtf\/?page_id=5"
+    },
+    "modified": "2019-10-11T21:23:20",
+    "modified_gmt": "2019-10-11T21:23:20",
+    "slug": "front-page-2",
+    "status": "publish",
+    "type": "page",
+    "link": "http:\/\/localhost:8888\/",
+    "title": {
+        "rendered": "OKC WTF"
+    },
+    "content": {
+        "rendered": "\n<h2>The Time Has Come<\/h2>\n\n\n\n<h3>Shit&#8217;s getting weird.<\/h3>\n\n\n\n<p>Curabitur commodo, nisl non placerat interdum, massa orci luctus nibh, at facilisis nibh arcu a ligula. Nam maximus venenatis malesuada. Curabitur venenatis lobortis orci ut pharetra. Aliquam erat volutpat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec eros purus, pretium quis dignissim id, ultricies quis odio. Phasellus pharetra semper leo ac dictum. Fusce placerat diam convallis tempus suscipit. Duis mi elit, ullamcorper sit amet metus eget, maximus tempus lacus. Duis lobortis vestibulum enim, rutrum tempor velit gravida ac. Aenean diam elit, vehicula et enim id, maximus pharetra nunc. Nulla bibendum accumsan pretium.<\/p>\n\n\n\n<div class=\"wp-block-columns has-2-columns\">\n<div class=\"wp-block-column\">\n<p>Curabitur commodo, nisl non placerat interdum, massa orci luctus nibh, at facilisis nibh arcu a ligula. Nam maximus venenatis malesuada. Curabitur venenatis lobortis orci ut pharetra. Aliquam erat volutpat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec eros purus, pretium quis dignissim id, ultricies quis odio. Phasellus pharetra semper leo ac dictum. Fusce placerat diam convallis tempus suscipit. Duis mi elit, ullamcorper sit amet metus eget, maximus tempus lacus. Duis lobortis vestibulum enim, rutrum tempor velit gravida ac. Aenean diam elit, vehicula et enim id, maximus pharetra nunc. Nulla bibendum accumsan pretium.<\/p>\n<\/div>\n\n\n\n<div class=\"wp-block-column\">\n<p>Curabitur commodo, nisl non placerat interdum, massa orci luctus nibh, at facilisis nibh arcu a ligula. Nam maximus venenatis malesuada. Curabitur venenatis lobortis orci ut pharetra. Aliquam erat volutpat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec eros purus, pretium quis dignissim id, ultricies quis odio. Phasellus pharetra semper leo ac dictum. Fusce placerat diam convallis tempus suscipit. Duis mi elit, ullamcorper sit amet metus eget, maximus tempus lacus. Duis lobortis vestibulum enim, rutrum tempor velit gravida ac. Aenean diam elit, vehicula et enim id, maximus pharetra nunc. Nulla bibendum accumsan pretium.<\/p>\n<\/div>\n<\/div>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>The Time Has Come Shit&#8217;s getting weird. Curabitur commodo, nisl non placerat interdum, massa orci luctus nibh, at facilisis nibh arcu a ligula. Nam maximus venenatis malesuada. Curabitur venenatis lobortis orci ut pharetra. Aliquam erat volutpat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec eros purus, pretium quis dignissim id, ultricies quis [&hellip;]<\/p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "acf": {
+        "hero_image": "http:\/\/localhost:8888\/wp-content\/uploads\/2019\/02\/man-794514.jpg",
+        "featured_article": false
+    },
+    "_links": {
+        "self": [{
+            "href": "http:\/\/localhost:8888\/wp-json\/wp\/v2\/pages\/11"
+        }],
+        "collection": [{
+            "href": "http:\/\/localhost:8888\/wp-json\/wp\/v2\/pages"
+        }],
+        "about": [{
+            "href": "http:\/\/localhost:8888\/wp-json\/wp\/v2\/types\/page"
+        }],
+        "author": [{
+            "embeddable": true,
+            "href": "http:\/\/localhost:8888\/wp-json\/wp\/v2\/users\/1"
+        }],
+        "replies": [{
+            "embeddable": true,
+            "href": "http:\/\/localhost:8888\/wp-json\/wp\/v2\/comments?post=11"
+        }],
+        "version-history": [{
+            "count": 12,
+            "href": "http:\/\/localhost:8888\/wp-json\/wp\/v2\/pages\/11\/revisions"
+        }],
+        "predecessor-version": [{
+            "id": 46,
+            "href": "http:\/\/localhost:8888\/wp-json\/wp\/v2\/pages\/11\/revisions\/46"
+        }],
+        "wp:attachment": [{
+            "href": "http:\/\/localhost:8888\/wp-json\/wp\/v2\/media?parent=11"
+        }],
+        "curies": [{
+            "name": "wp",
+            "href": "https:\/\/api.w.org\/{rel}",
+            "templated": true
+        }]
+    }
+}, {
+    "id": 9,
+    "date": "2019-02-04T19:38:19",
+    "date_gmt": "2019-02-04T19:38:19",
+    "guid": {
+        "rendered": "http:\/?page_id=2"
+    },
+    "modified": "2019-02-15T22:07:32",
+    "modified_gmt": "2019-02-15T22:07:32",
+    "slug": "sample-page-2",
+    "status": "publish",
+    "type": "page",
+    "link": "http:\/\/localhost:8888\/sample-page-2\/",
+    "title": {
+        "rendered": "Sample Page"
+    },
+    "content": {
+        "rendered": "\n<h2>Nobody Wants a <br>Fucking Sample Page<\/h2>\n\n\n\n<p>This is an example page. It&#8217;s different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:<\/p>\n\n\n\n<blockquote class=\"wp-block-quote\"><p>Hi there! I&#8217;m a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi\u00f1a coladas. (And gettin&#8217; caught in the rain.)<\/p><\/blockquote>\n\n\n\n<p>&#8230;or something like this:<\/p>\n\n\n\n<blockquote class=\"wp-block-quote\"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.<\/p><\/blockquote>\n\n\n\n<p>As a new WordPress user, you should go to <a href=\"http:\/wp-admin\/\">your dashboard<\/a> to delete this page and create new pages for your content. Have fun!<\/p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>Nobody Wants a Fucking Sample Page This is an example page. It&#8217;s different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this: [&hellip;]<\/p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 29,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "template": "",
+    "meta": [],
+    "acf": [],
+    "_links": {
+        "self": [{
+            "href": "http:\/\/localhost:8888\/wp-json\/wp\/v2\/pages\/9"
+        }],
+        "collection": [{
+            "href": "http:\/\/localhost:8888\/wp-json\/wp\/v2\/pages"
+        }],
+        "about": [{
+            "href": "http:\/\/localhost:8888\/wp-json\/wp\/v2\/types\/page"
+        }],
+        "author": [{
+            "embeddable": true,
+            "href": "http:\/\/localhost:8888\/wp-json\/wp\/v2\/users\/1"
+        }],
+        "replies": [{
+            "embeddable": true,
+            "href": "http:\/\/localhost:8888\/wp-json\/wp\/v2\/comments?post=9"
+        }],
+        "version-history": [{
+            "count": 4,
+            "href": "http:\/\/localhost:8888\/wp-json\/wp\/v2\/pages\/9\/revisions"
+        }],
+        "predecessor-version": [{
+            "id": 26,
+            "href": "http:\/\/localhost:8888\/wp-json\/wp\/v2\/pages\/9\/revisions\/26"
+        }],
+        "wp:featuredmedia": [{
+            "embeddable": true,
+            "href": "http:\/\/localhost:8888\/wp-json\/wp\/v2\/media\/29"
+        }],
+        "wp:attachment": [{
+            "href": "http:\/\/localhost:8888\/wp-json\/wp\/v2\/media?parent=9"
+        }],
+        "curies": [{
+            "name": "wp",
+            "href": "https:\/\/api.w.org\/{rel}",
+            "templated": true
+        }]
+    }
+}]
